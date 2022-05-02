@@ -1,4 +1,4 @@
-# Hello, my name is Álvaro Oscares
+# Hi, my name is Álvaro Oscares
 ### Developer full-stack, I am specializing in React.js
 ### Systems engineer student
 
