@@ -1,12 +1,8 @@
 # Hi, my name is Álvaro Oscares
-### Developer full-stack, I am specializing in React.js
-### Systems engineer student
+### Full-Stack developer
+### Systems engineer
 
-I'm a software developer for more than four years.
-
-I worked in several companies, in which I helped with the development of more than 10 Apps, which allowed me to grow as a professional in the software development industry.
- 
-I am interested in growing as Front-end Web Development, specifically in React.js, taking courses and dedicating my time to perfectly learn this technology.
+5+ years of experience in web development. My passion lies in using the latest technologies to create comprehensive solutions, from robust backend architecture to intuitive and attractive user interfaces. With a meticulous approach and a commitment to innovation, I aim to bring new perspectives and collaborative energy to your team, elevating your projects to new heights.
 
 ## Skills:
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
